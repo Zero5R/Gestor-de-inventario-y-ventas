@@ -1,6 +1,27 @@
-<h3>Nombre del proyecto: Gestor de inventario y ventas<br>
-Proyecto por: Nicolas Hernan Murcia Acuña y Michael Steven Caldas Sterpin <br>
-Curso: 239-5B</h3>
-<hr>
-<br>
-Este proyecto consistira en la creacion de un gestor de inventario y ventas que tenga interfaz grafica de una forma organizada, intuitiva y concisa ademas sera dinamica y permitira el uso de base de datos para mantener la consistencia de datos en tiempo real.
+# GestorInventarioVentas
+
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.2.1.
+
+## Development server
+
+Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+
+## Code scaffolding
+
+Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+
+## Build
+
+Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+
+## Running unit tests
+
+Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+
+## Running end-to-end tests
+
+Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+
+## Further help
+
+To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
